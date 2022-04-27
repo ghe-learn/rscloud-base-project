@@ -7,6 +7,12 @@
 
 # Code --------------------------------------------------------------------
 
-pkgs <- c("tidyverse", "DT", "knitr", "rmarkdown", "usethis", "markdown")
+pkgs <- c("tidyverse", 
+          "DT", 
+          "knitr", 
+          "rmarkdown", 
+          "usethis", 
+          "markdown",
+          "quarto")
 
 install.packages(pkgs)
