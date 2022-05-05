@@ -16,6 +16,7 @@ pkgs <- c("tidyverse",
           "quarto",
           "WDI",
           "countrycode",
-          "broom")
+          "broom",
+          "scales")
 
 install.packages(pkgs)
