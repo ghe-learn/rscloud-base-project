@@ -13,6 +13,9 @@ pkgs <- c("tidyverse",
           "rmarkdown", 
           "usethis", 
           "markdown",
-          "quarto")
+          "quarto",
+          "WDI",
+          "countrycode",
+          "broom")
 
 install.packages(pkgs)
