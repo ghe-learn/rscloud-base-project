@@ -1,0 +1,8 @@
+---
+title: "Installation"
+format: html
+---
+
+# Instructions
+
+Render this file after running "installation.R".

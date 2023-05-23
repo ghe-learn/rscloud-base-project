@@ -19,6 +19,14 @@ pkgs <- c("tidyverse",
           "broom",
           "scales",
           "gapminder",
-          "gt")
+          "gt",
+          "ggthemes",
+          "devtools",
+          "tinytex")
 
 install.packages(pkgs)
+
+devtools::install_github("WASHNote/jmpwashdata")
+
+tinytex::install_tinytex()
+
